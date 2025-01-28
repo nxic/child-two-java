@@ -6,6 +6,6 @@
         <version>1.0.0-SNAPSHOT</version>
 	<relativePath>../pom.xml</relativePath>
     </parent>
-    <artifactId>child-two-module</artifactId>
+    <artifactId>child-two-java</artifactId>
 </project>
 
